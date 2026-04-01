@@ -2,15 +2,13 @@ In this task, you'll design an MCP interface for a Git Activity Analyzer — a s
 
 ## Workflow at a glance
 
-<aside>
 👩‍💻
 1. Set up your environment
 2. Plan the interface in `docs/interface.md`
 3. Build the server
-*Optional: use a prepared prompt to speed up your first draft*
+(Optional: use a prepared prompt to speed up your first draft)
 4. Check your work
 5. Submit
-</aside>
 
 ## 1. Set up your environment
 
